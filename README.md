@@ -1,1 +1,3 @@
-# mythicalprograms.github.io
+# Mythical Website
+
+Mythical Programs!
